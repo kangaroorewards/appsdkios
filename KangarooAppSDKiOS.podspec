@@ -6,6 +6,6 @@ s.homepage      = "https://kangaroorewards.com/"
 s.license       = "Apache"
 s.author        = { Kangaroo Rewards }
 s.vendored_frameworks = 'KangarooAppSDKiOS.xcframework'
-s.source        = { :git => "git@github.com:kangaroorewards/appsdkios.git", :tag => "#{s.version}" }
+s.source        = { :git => "https://github.com/kangaroorewards/appsdkios.git", :tag => "#{s.version}" }
 s.exclude_files = "Classes/Exclude"
 end
