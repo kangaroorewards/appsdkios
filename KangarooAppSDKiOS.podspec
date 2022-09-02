@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name          = "KangarooAppSDKiOS"
-s.version       = "1.0"
+s.version       = "0.0.01"
 s.summary       = "Kangaroo App SDK for iOS"
 s.homepage      = "https://kangaroorewards.com/"
 s.license       = "Apache"
