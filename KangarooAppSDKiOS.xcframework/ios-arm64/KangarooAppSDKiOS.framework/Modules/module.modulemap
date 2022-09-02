@@ -3,6 +3,4 @@ framework module KangarooAppSDKiOS {
 
     export *
     module * { export * }
-
-    use Foundation
 }
